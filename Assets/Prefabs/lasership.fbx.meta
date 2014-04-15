@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 5c310cf82a28ee74580e2c43596119b4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cannon
+    100002: CannonTower
+    100004: Control1
+    100006: Control2
+    100008: //RootNode
+    100010: LowAntennae
+    100012: MidAntennae
+    100014: rudder
+    100016: ShipBody
+    100018: ShipDeck
+    100020: ShipQuarters
+    100022: SignalTower
+    100024: TallAntennae
+    100026: Taper
+    400000: Cannon
+    400002: CannonTower
+    400004: Control1
+    400006: Control2
+    400008: //RootNode
+    400010: LowAntennae
+    400012: MidAntennae
+    400014: rudder
+    400016: ShipBody
+    400018: ShipDeck
+    400020: ShipQuarters
+    400022: SignalTower
+    400024: TallAntennae
+    400026: Taper
+    2300000: Cannon
+    2300002: CannonTower
+    2300004: Control1
+    2300006: Control2
+    2300008: LowAntennae
+    2300010: MidAntennae
+    2300012: rudder
+    2300014: ShipBody
+    2300016: ShipDeck
+    2300018: ShipQuarters
+    2300020: SignalTower
+    2300022: TallAntennae
+    3300000: Cannon
+    3300002: CannonTower
+    3300004: Control1
+    3300006: Control2
+    3300008: LowAntennae
+    3300010: MidAntennae
+    3300012: rudder
+    3300014: ShipBody
+    3300016: ShipDeck
+    3300018: ShipQuarters
+    3300020: SignalTower
+    3300022: TallAntennae
+    4300000: rudder
+    4300002: TallAntennae
+    4300004: MidAntennae
+    4300006: LowAntennae
+    4300008: SignalTower
+    4300010: Control1
+    4300012: Control2
+    4300014: CannonTower
+    4300016: Cannon
+    4300018: ShipDeck
+    4300020: ShipQuarters
+    4300022: ShipBody
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

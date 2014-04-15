@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: ecd49e7caf56a4a4f99e214be1c6ea4f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cap_1
+    100002: Cap_1_2
+    100004: Cap_1_3
+    100006: Cap_2
+    100008: Cap_2_2
+    100010: Cap_2_3
+    100012: Cylinder
+    100014: Cylinder_1
+    100016: Extrude_NURBS
+    100018: Extrude_NURBS_1
+    100020: Extrude_NURBS_2
+    100022: //RootNode
+    100024: Sphere
+    100026: Spline
+    100028: Spline_2
+    100030: Spline_3
+    100032: Spline_4
+    100034: Symmetry
+    400000: Cap_1
+    400002: Cap_1_2
+    400004: Cap_1_3
+    400006: Cap_2
+    400008: Cap_2_2
+    400010: Cap_2_3
+    400012: Cylinder
+    400014: Cylinder_1
+    400016: Extrude_NURBS
+    400018: Extrude_NURBS_1
+    400020: Extrude_NURBS_2
+    400022: //RootNode
+    400024: Sphere
+    400026: Spline
+    400028: Spline_2
+    400030: Spline_3
+    400032: Spline_4
+    400034: Symmetry
+    2300000: Cap_1
+    2300002: Cap_1_2
+    2300004: Cap_1_3
+    2300006: Cap_2
+    2300008: Cap_2_2
+    2300010: Cap_2_3
+    2300012: Cylinder
+    2300014: Cylinder_1
+    2300016: Extrude_NURBS
+    2300018: Extrude_NURBS_1
+    2300020: Extrude_NURBS_2
+    2300022: Sphere
+    3300000: Cap_1
+    3300002: Cap_1_2
+    3300004: Cap_1_3
+    3300006: Cap_2
+    3300008: Cap_2_2
+    3300010: Cap_2_3
+    3300012: Cylinder
+    3300014: Cylinder_1
+    3300016: Extrude_NURBS
+    3300018: Extrude_NURBS_1
+    3300020: Extrude_NURBS_2
+    3300022: Sphere
+    4300000: Cylinder_1
+    4300002: Sphere
+    4300004: Cylinder
+    4300006: Extrude_NURBS_2
+    4300008: Cap_1
+    4300010: Cap_2
+    4300012: Extrude_NURBS_1
+    4300014: Cap_1_2
+    4300016: Cap_2_2
+    4300018: Extrude_NURBS
+    4300020: Cap_1_3
+    4300022: Cap_2_3
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
